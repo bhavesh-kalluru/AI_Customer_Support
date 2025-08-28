@@ -1,0 +1,11 @@
+streamlit~=1.48.0
+openai>=1.0.0
+faiss-cpu~=1.11.0
+chromadb
+tiktoken
+gtts~=2.5.4
+pyaudio
+SpeechRecognition~=3.14.3
+
+numpy~=2.3.2
+sentence-transformers~=3.4.1
